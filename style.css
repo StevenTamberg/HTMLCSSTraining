@@ -1,0 +1,30 @@
+
+html{
+    font-family:'Frank Gothic Narrow';
+    height:100%;
+    
+}
+body{
+    background-image: url("https://images4.alphacoders.com/113/thumb-1920-1135892.png");
+    color:white;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    
+
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.first_div{
+    text-align:center;
+}
+a{
+    text-decoration: none;
+
+    color:white;
+
+}
+a.circle{
+    border-radius: 100%;
+}
